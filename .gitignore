@@ -89,6 +89,12 @@ Thumbs.db
 desktop.ini
 
 # =========================
+# Local / external repo metadata
+# =========================
+.vsconfig
+catalog-info.yaml
+
+# =========================
 # Optional: ignore large local config
 # =========================
 # Uncomment if needed
