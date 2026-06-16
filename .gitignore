@@ -1,0 +1,98 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =========================
+# Unity asset meta handling
+# =========================
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/**/*.meta
+!/[Pp]roject[Ss]ettings/**/*.meta
+
+# =========================
+# Auto-generated IDE files
+# =========================
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+
+# Visual Studio / Rider / VS Code
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# JetBrains Rider
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# =========================
+# Unity / Mono / Crash logs
+# =========================
+sysinfo.txt
+mono_crash.*
+mono_crash.mem.*
+
+# =========================
+# Build outputs / packages
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+# Addressables / Asset Bundles
+# =========================
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/StreamingAssets/aa.meta
+[Aa]ssets/StreamingAssets/aa/*
+
+# =========================
+# Ignore generated test coverage
+# =========================
+[Cc]overage/
+[Cc]overageReports/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Optional: ignore large local config
+# =========================
+# Uncomment if needed
+# *.pid
+# *.seed
+# *.log
+# *.stackdump
